@@ -4,15 +4,13 @@
   "description": "",
   "main": "cumbucaserver.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "bootstrap": "^3.4.1",
     "express": "^4.17.1",
-    "mongoose": "^5.9.12",
-    "mongodb": "^3.5.7",
-    "nodemon": "^2.0.3"
+    "ibm-watson": "^5.5.0",
+
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node cumbucaserver",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
