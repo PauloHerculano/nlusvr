@@ -7,8 +7,9 @@
     "express": "^4.17.1",
     "ibm-watson": "^5.5.0"
   },
+  "devDependencies": {},
   "scripts": {
-    "start": "nome cumbucaserver",
+    "start": "node cumbucaserver",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
